@@ -36,7 +36,7 @@
       "name": "🐸厂长┃1080P",
       "type": 3,
       "api": "csp_Czzy",
-	  "jar": "./spider.jar",
+	  "jar": "./66/jar/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
