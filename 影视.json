@@ -57,17 +57,7 @@
       "playerType": 2,
       "ext": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/cs.txt"
 	},
-	
-        {
-      "key": "永乐影视",
-      "name": "🛹永乐┃1080P",
-      "type": 3,
-      "api": "csp_XBPQ",
-	  "jar": "./jar/spider000.jar",
-      "ext": "./XBPQ/永乐影视.json"
-    },
-        
-        
+
         {
       "key": "若惜",
       "name": "🏖若惜｜1080P",
