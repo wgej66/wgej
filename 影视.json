@@ -4,15 +4,7 @@
 {
             "key": "js豆瓣1",
             "name": "🌈影视中心自动去广告",
-            "type": 3,
-        	"api": "https://weixine.net/js/lib/drpy2.min.js",
-		"ext": "https://gitee.com/smallmi1007/mimi/raw/master/ceshi.js"
-	},
-        
-        {
-			"key": "csp_nongmin",
-			"name": "👨农民┃1080P",
-			"type": 3,
+        	"type": 3,
 			"api": "csp_Wwys",
 			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749178719932/0606.jpg",
 			"searchable": 1,
@@ -20,7 +12,14 @@
 			"filterable": 1,
 			"ext": "https://m.wwgz.cn/"
 		},
-        
+            
+        {
+		"key": "步步",
+		"name": "👟步步┃1080P",
+		"type": 3,
+        	"api": "https://weixine.net/js/lib/drpy2.min.js",
+		"ext": "https://gitee.com/smallmi1007/mimi/raw/master/ceshi.js"
+	}, 
         {
       "key": "厂长弹幕",
       "name": "🐸厂长┃1080P",
