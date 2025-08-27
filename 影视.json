@@ -1,16 +1,16 @@
-{"spider":"./jar/pg.jar",
-"sites":
-[
+{"spider":"https://gitee.com/lwlxh/tvhome/raw/master/pg.jar",
+"sites":[
 {
             "key": "js豆瓣1",
-            "name": "🌈影视中心自动去广告",
-        	"type": 3,
-	        "api": "./lib/drpy2.min.js",
+            "name": "🌈影视中心自动去广告  不要相信里面的广告",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
             "ext": "./lib/douban.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
         },
+        
         {
 			"key": "csp_nongmin",
 			"name": "👨农民┃1080P",
