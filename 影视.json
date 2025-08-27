@@ -5,8 +5,8 @@
             "key": "js豆瓣1",
             "name": "🌈影视中心自动去广告",
             "type": 3,
-            "api": "./66/lib/drpy2.min.js",
-            "ext": "./66/lib/douban.js",
+            "api": "./lib/drpy2.min.js",
+            "ext": "./lib/douban.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
