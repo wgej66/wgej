@@ -5,18 +5,7 @@
             "key": "js豆瓣1",
             "name": "🌈影视中心自动去广告",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/douban.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-        
-        {
-		"key": "步步",
-		"name": "👟步步┃1080P",
-		"type": 3,
-		"api": "https://weixine.net/js/lib/drpy2.min.js",
+        	"api": "https://weixine.net/js/lib/drpy2.min.js",
 		"ext": "https://gitee.com/smallmi1007/mimi/raw/master/ceshi.js"
 	},
         
