@@ -1,4 +1,4 @@
-{"spider":"https://gitee.com/lwlxh/tvhome/raw/master/pg.jar",
+{"spider":"./jar/pg.jar",
 "sites":[
 {
             "key": "js豆瓣1",
