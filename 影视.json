@@ -1,4 +1,4 @@
-{"spider":"./jar/pg.jar",
+{"spider":"./jar/spider.jar",
 "sites":[
 {
             "key": "js豆瓣1",
