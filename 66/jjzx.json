@@ -1,15 +1,16 @@
-{"spider":"https://gitee.com/lwlxh/tvhome/raw/master/pg.jar",
-"sites":[
 {
-            "key": "js豆瓣1",
-            "name": "🌈影视中心自动去广告",
-            "type": 3,
-            "api": "./66/lib/drpy2.min.js",
-            "ext": "./66/lib/douban.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
-        },
+	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/bb2e3bb2e6c3c230/0815.png;md5;66623623fe5ae34dad253ae2e0802416",
+	"wallpaper": "https://xn--4kq62z5rby2qupqba63sb41h.999888987.xyz/",
+	"sites": [{
+			"key": "豆豆",
+			"name": "🌈热播┃推荐（长按图片也可以聚合搜索）",
+			"type": 3,
+			"quickSearch": 0,
+			"filterable": 0,
+			"changeable": 0,
+			"api": "csp_Douban",
+			"searchable": 0
+		},
         {
             "key": "贝贝影院",
             "name": "小呗┃影视",
