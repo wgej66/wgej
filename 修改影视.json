@@ -1,3 +1,4 @@
+{
 	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/bb2e3bb2e6c3c230/0815.png;md5;66623623fe5ae34dad253ae2e0802416",
 	"wallpaper": "https://xn--4kq62z5rby2qupqba63sb41h.999888987.xyz/",
 	"sites": [{
@@ -10,21 +11,6 @@
 			"api": "csp_Douban",
 			"searchable": 0
 		},
-	
-	
-	
-	
-	
-	{
-            "key": "js豆瓣1",
-            "name": "🌈影视中心自动去广告  不要相信里面的广告",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/douban.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
-        },
         
         {
 			"key": "csp_nongmin",
@@ -1410,5 +1396,6 @@
 	        "logo": "./logo.gif",
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 }
+
 
 
