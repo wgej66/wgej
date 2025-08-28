@@ -942,7 +942,7 @@
       "name": "农民|影院",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./66/lib/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1010,7 +1010,8 @@
                 "海外动漫"
             ]
         },
-   
+
+	  
     {
             "key": "非凡1",
             "name": "非凡1",
