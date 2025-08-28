@@ -1,16 +1,11 @@
-{
-	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/bb2e3bb2e6c3c230/0815.png;md5;66623623fe5ae34dad253ae2e0802416",
-	"wallpaper": "https://xn--4kq62z5rby2qupqba63sb41h.999888987.xyz",
-	"sites": [{
-			"key": "豆豆",
-			"name": "🌈热播┃推荐",
-			"type": 3,
-			"quickSearch": 1,
-			"filterable": 0,
-			"changeable": 0,
-			"api": "csp_Douban",
-			"searchable": 0
-		},
+{\"wallpaper\": \"http://api.btstu.cn/sjbz/?lx=meizi\",
+  \"spider\": \"http://dd.ma/CFlLnSbJ\",
+  \"warningText\": \"公子导航页：http://lzoq.serv00.net\",
+
+\"sites\":[
+{ \"key\": \"刘公子\", \"name\": \"👇点主页↙️切影视资源口，有意见和建议群内联系\",\"searchable\": 0,\"quickSearch\": 0,\"filterable\": 1,\"type\":3,\"api\":\"csp_XBPQ\", \"ext\": { \"简介\" :\"刘公子为您剧情介绍:+detail-content\\" style=*>&&</span>\",\"\u526f\u6807\u9898\":\"\u516c\u5b50\u4e13\u5c5e\",\"分类url\":\"https://cnsende.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html\",\"分类\":\"全网短剧$36#电视剧$2#电影$1#动漫$4#综艺$3\"}},
+
+{\"key\":\"csp_戏曲\",\"name\":\"🤡戏曲\",\"type\": 3,\"api\": \"csp_Bili\",\"searchable\": 0,\"quickSearch\": 0,\"filterable\": 1,\"ext\":\"http://gzy.hk3.345888.xyz.cdn.cloudflare.net/json/哔哩戏曲.json\"},
         
         {
 			"key": "csp_nongmin",
@@ -1396,6 +1391,7 @@
 	        "logo": "./logo.gif",
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 }
+
 
 
 
