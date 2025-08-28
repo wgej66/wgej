@@ -11,7 +11,13 @@
 			"api": "csp_Douban",
 			"searchable": 0
 		},
-        
+		{
+			"key": "config",
+			"name": "⚙网盘┃配置 项目链接：https://link3.cc/lovemm",
+			"type": 3,
+			"api": "csp_Config",
+			"searchable": 0
+		},
         {
 			"key": "csp_nongmin",
 			"name": "👨农民┃1080P",
@@ -1396,6 +1402,7 @@
 	        "logo": "./logo.gif",
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 }
+
 
 
 
