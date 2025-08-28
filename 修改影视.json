@@ -1,6 +1,6 @@
 {
 	"spider": "./jar/spider.jar;md5;66623623fe5ae34dad253ae2e0802416",
-	"wallpaper": "",
+	"wallpaper": "https://xn--4kq62z5rby2qupqba63sb41h.999888987.xyz",
 	"sites": [{
 			"key": "豆豆",
 			"name": "🌈热播┃推荐",
@@ -1396,4 +1396,5 @@
 	        "logo": "./logo.gif",
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 }
+
 
