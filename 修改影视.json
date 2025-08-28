@@ -1,15 +1,16 @@
-{"spider":"https://gitee.com/lwlxh/tvhome/raw/master/pg.jar",
-"sites":[
 {
-            "key": "js豆瓣1",
-            "name": "🌈影视中心自动去广告  不要相信里面的广告",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/douban.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
-        },
+	"spider": "./jar/spider.jar;md5;66623623fe5ae34dad253ae2e0802416",
+	"wallpaper": "",
+	"sites": [{
+			"key": "豆豆",
+			"name": "🌈热播┃推荐",
+			"type": 3,
+			"quickSearch": 1,
+			"filterable": 0,
+			"changeable": 0,
+			"api": "csp_Douban",
+			"searchable": 0
+		},
         
         {
 			"key": "csp_nongmin",
@@ -1395,3 +1396,4 @@
 	        "logo": "./logo.gif",
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 }
+
