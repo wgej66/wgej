@@ -34,21 +34,7 @@
 			"filterable": 1,
 			"ext": "https://m.wwgz.cn/"
 		},
-        
-        {
-      "key": "厂长弹幕",
-      "name": "🐸厂长┃1080P",
-      "type": 3,
-      "api": "csp_Czzy",
-	  "jar": "./spider.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-        
+   
          {
 		"key": "QD4K",
 		"name": "🐷猪猪┃单线4K",
@@ -60,17 +46,7 @@
       "playerType": 2,
       "ext": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/cs.txt"
 	},
-	
-        {
-      "key": "永乐影视",
-      "name": "🛹永乐┃1080P",
-      "type": 3,
-      "api": "csp_XBPQ",
-	  "jar": "./spider.jar",
-      "ext": "./XBPQ/永乐影视.json"
-    },
-        
-        
+ 
         {
       "key": "若惜",
       "name": "🏖若惜｜1080P",
