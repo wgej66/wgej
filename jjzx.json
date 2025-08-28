@@ -98,7 +98,16 @@
     "ext":"http://gzy.hk3.345888.xyz.cdn.cloudflare.net/json/哔哩戏曲.json"
   },   
 
-        
+ {
+       "key":"csp_Bili",
+       "name":"🅱️哔哩综合",
+       "type": 3,
+       "api": "csp_Bili",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/biliext/Bili.json"
+ },        
         
         
         
