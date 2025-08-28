@@ -11,14 +11,7 @@
 			"api": "csp_Douban",
 			"searchable": 0
 		},
-		"多多": [
-"https://tv.yydsys.top",
-"https://tv.yydsys.cc",
-"https://tv.214521.xyz"
-],
-"星剧社": [
-"https://mlink.cc/520TV"
-],
+
         {
 			"key": "csp_nongmin",
 			"name": "👨农民┃1080P",
@@ -1403,6 +1396,7 @@
 	        "logo": "./logo.gif",
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 }
+
 
 
 
