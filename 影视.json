@@ -15,14 +15,7 @@
   "分类":"全网短剧$36#电视剧$2#电影$1#动漫$4#综艺$3"}},
   
  
-        {
-            "key": "drpy_瓜子影视",
-            "name": "🍏瓜子┃影视",
-            "type": 3,
-            "api": "https://x.yoxia.me/ds/libs/drpy2.min.js",
-            "ext": "https://x.yoxia.me/ds/guazi.js"
-        },
-        
+              
         {
 			"key": "csp_nongmin",
 			"name": "👨农民┃1080P",
