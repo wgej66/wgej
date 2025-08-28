@@ -1,23 +1,29 @@
-{"spider":"https://gitee.com/lwlxh/tvhome/raw/master/pg.jar",
-"sites":[
-{
-            "key": "js豆瓣1",
-            "name": "🌈影视中心自动去广告  不要相信里面的广告",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/douban.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-        
-        {
-		"key": "步步",
-		"name": "👟步步┃1080P",
-		"type": 3,
-		"api": "https://weixine.net/js/lib/drpy2.min.js",
-		"ext": "https://gitee.com/smallmi1007/mimi/raw/master/ceshi.js"
-	},
+{"wallpaper": "http://api.btstu.cn/sjbz/?lx=meizi", 
+"spider": "http://dd.ma/CFlLnSbJ",
+"warningText": "公子导航页：http://lzoq.serv00.net",
+"sites":
+  [ 
+  { "key": "刘公子", 
+  "name": "👇点主页↙️切影视资源口，有意见和建议群内联系",
+  "searchable": 0,
+ "quickSearch": 0,
+  "filterable": 1,
+  "type":3,
+  "api":"csp_XBPQ", 
+  "ext": { "简介" :"刘公子为您剧情介绍:+detail-content\" style=*>&&","\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e",
+  "分类url":"https://cnsende.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+  "分类":"全网短剧$36#电视剧$2#电影$1#动漫$4#综艺$3"}},
+  
+  {
+    "key":"csp_戏曲",
+    "name":"🤡戏曲",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext":"http://gzy.hk3.345888.xyz.cdn.cloudflare.net/json/哔哩戏曲.json"
+  },
         {
             "key": "drpy_瓜子影视",
             "name": "🍏瓜子┃影视",
