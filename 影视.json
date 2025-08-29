@@ -10,7 +10,7 @@
   "filterable": 1,
   "type":3,
   "api":"csp_XBPQ", 
-  "ext": { "简介" :"刘公子为您剧情介绍:+detail-content\" style=*>&&","\u526f\u6807\u9898":"\u6cb3\u5357\u6cb9\u7565",
+  "ext": { "简介" :"刘公子为您剧情介绍:+detail-content\" style=*>&&",""\u526f\u6807\u9898":"\u6cb3\u5357\u6cb9\u7565",,
         {
             "key": "drpy_瓜子影视",
             "name": "🍏瓜子┃影视",
@@ -1452,6 +1452,7 @@
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 
 }
+
 
 
 
