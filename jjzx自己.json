@@ -1,24 +1,25 @@
 {
-        "wallpaper": "http://api.btstu.cn/sjbz/?lx=meizi",
-        "spider": "http://dd.ma/CFlLnSbJ",
-        "warningText": "公子导航页：http://lzoq.serv00.net",
-        "sites": [
-            {
-                "key": "刘公子",
-                "name": "点首页切换影视资源接口，勿信视频中的广告 切记！！！",
-                "searchable": 0,
-                "quickSearch": 0,
-                "filterable": 1,
-                "type": 3,
-                "api": "csp_XBPQ",
-                "homeUrl": "https://cnsende.com/",
-                "ext": {
-                    "简介": "刘公子为您提供剧情介绍",
-                    "副标题": "公子专属",
-                    "分类url": "https://cnsende.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-                    "分类": "全网短剧$36#电视剧$2#电影$1#动漫$4#综艺$3"
-                }
-            },
+  "wallpaper": "http://api.btstu.cn/sjbz/?lx=meizi",
+  "spider": "http://dd.ma/CFlLnSbJ",
+  "warningText": "公子导航页：链接1",
+  "sites": [
+    {
+      "key": "刘公子",
+      "name": "👇点剧白白↙️切换影视资源接口，易相信视频中的广告 切记！！！ 切记！！！",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "简介": "刘公子为您剧情介绍:+detail-content\" style=*>&&",
+        "副标题": "公子专属",
+        "分类url": "链接2vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+        "分类": "全网短剧$36#电视剧$2#电影$1#动漫$4#综艺$3"
+      }
+    }
+  ]
+},
             {
                 "key": "贝贝影院",
                 "name": "小呗┃影视",
