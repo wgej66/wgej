@@ -62,7 +62,19 @@
         "version": ""
       }
     },
-        
+        {
+            "key": "maitianys",
+            "name": "麦田影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/XBPQ816.jar",
+            "ext": {
+                "分类url":"https://www.joytz.com/search.php?page={catePg}&searchtype=5&tid={cateId}&year={year}&area={area}",
+                "分类二次截取": "tab_head\">&&</ul>",
+                "分类数组": "<a&&/a>",
+                "分类标题": ">&&<",
+                "分类ID": "/m/&&.html"
+              }},
       {
     "key":"csp_戏曲",
     "name":"🤡戏曲",
@@ -1457,3 +1469,4 @@
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 
 }
+
