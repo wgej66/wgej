@@ -16,6 +16,50 @@
   }
   },
 
+
+	  
+	  {
+      "key": "牛Y", 
+      "name": "牛Y┃影视", 
+      "type": 1, 
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1,
+      "categories": [
+	                        "4K电影",
+				"动作片",
+				"喜剧片",
+				"爱情片",
+				"科幻片",
+				"恐怖片",
+	        	"剧情片",
+				"战争片",
+				"国产剧",
+				"欧美剧",
+				"韩剧",
+				"日剧",
+				"港剧",
+				"台剧",
+				"泰剧",
+				"海外剧",
+				"纪录片",
+				"大陆综艺",
+				"日韩综艺",
+				"港台综艺",
+				"欧美综艺",
+				"国产动漫",
+				"日韩动漫",
+				"欧美动漫",
+				"动画片",
+				"港台动漫",
+				"海外动漫",
+			]
+    },
+
+
+
+	  
 	  {
             "key": "drpy_瓜子影视",
             "name": "🍏瓜子┃影视",
@@ -887,8 +931,8 @@
    
  
 {
-      "key": "牛Y", 
-      "name": "牛Y┃影视", 
+      "key": "牛1Y", 
+      "name": "牛1Y┃影视", 
       "type": 1, 
       "api": "https://api.niuniuzy.me/api.php/provide/vod/", 
       "searchable": 1, 
@@ -1457,6 +1501,7 @@
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 
 }
+
 
 
 
