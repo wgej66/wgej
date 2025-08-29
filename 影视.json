@@ -67,7 +67,7 @@
 		 "name": "影视森林",
 		"type":3,
 		"api":"csp_XBPQ",
-		"jar":"./jar/XBPQ816.jar",
+		"jar":"./XBPQ816.jar",
 		"ext": {"分类url":"https://www.imtlink.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html;;!","分类":"电影$dianying#电视剧$dsj#动漫$dongman#综艺$zongyi#短剧$remenduanju#体育赛事$tiyusaishi"}},
 			
   
@@ -1465,6 +1465,7 @@
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 
 }
+
 
 
 
