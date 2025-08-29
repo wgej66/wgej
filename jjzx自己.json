@@ -13,7 +13,7 @@
                 "api": "csp_XBPQ",
                 "homeUrl": "https://cnsende.com/",
                 "ext": {
-                    "简介": "刘公子为您剧情介绍:+detail-content\" style=*>&&",
+                    "简介": "刘公子为您剧情介绍:+detail-content\\\" style=*>&&",
                     "副标题": "公子专属",
                     "分类url": "https://cnsende.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
                     "分类": "全网短剧$36#电视剧$2#电影$1#动漫$4#综艺$3"
