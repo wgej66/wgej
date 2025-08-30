@@ -18,7 +18,7 @@
 
 	  
 	  
-	  
+	   //删
 	  {
             "key": "dnvods影视",
             "name":"多影视",
@@ -35,7 +35,7 @@
         },
     
     
-    
+    //删
     {
             "key": "drpy_瓜子影视",
             "name": "🍏瓜子┃影视",
@@ -1464,5 +1464,6 @@
 	        "logo": "./logo.gif",
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 }
+
 
 
