@@ -11,11 +11,20 @@
             "filterable": 0
         },
         
-
-	  
-	  
-	  
-	  
+        {
+		"key": "步步",
+		"name": "👟步步┃1080P",
+		"type": 3,
+		"api": "https://weixine.net/js/lib/drpy2.min.js",
+		"ext": "https://gitee.com/smallmi1007/mimi/raw/master/ceshi.js"
+	},
+        {
+            "key": "drpy_瓜子影视",
+            "name": "🍏瓜子┃影视",
+            "type": 3,
+            "api": "https://x.yoxia.me/ds/libs/drpy2.min.js",
+            "ext": "https://x.yoxia.me/ds/guazi.js"
+        },
         
         {
 			"key": "csp_nongmin",
@@ -28,7 +37,21 @@
 			"filterable": 1,
 			"ext": "https://m.wwgz.cn/"
 		},
-   
+        
+        {
+      "key": "厂长弹幕",
+      "name": "🐸厂长┃1080P",
+      "type": 3,
+      "api": "csp_Czzy",
+	  "jar": "./spider.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+        
          {
 		"key": "QD4K",
 		"name": "🐷猪猪┃单线4K",
@@ -40,7 +63,17 @@
       "playerType": 2,
       "ext": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/cs.txt"
 	},
- 
+	
+        {
+      "key": "永乐影视",
+      "name": "🛹永乐┃1080P",
+      "type": 3,
+      "api": "csp_XBPQ",
+	  "jar": "./spider.jar",
+      "ext": "./XBPQ/永乐影视.json"
+    },
+        
+        
         {
       "key": "若惜",
       "name": "🏖若惜｜1080P",
@@ -57,81 +90,12 @@
       }
     },
         
-      {
-    "key":"csp_戏曲",
-    "name":"🤡戏曲",
-    "type": 3,
-    "api": "csp_Bili",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 1,
-    "ext":"http://gzy.hk3.345888.xyz.cdn.cloudflare.net/json/哔哩戏曲.json"
-  },   
-
- {
-       "key":"csp_Bili",
-       "name":"🅱️哔哩综合",
-       "type": 3,
-       "api": "csp_Bili",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/biliext/Bili.json"
- },        
         
-   {
-          "key":"csp_Bili幼儿",
-         "name":"🅱️哔哩幼儿",
-          "type":3,
-         "api":"csp_Bili",
-         "searchable":0,
-        "quickSearch":0,
-         "filterable":1,
-        "ext":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/biliext/幼儿乐园.json"},
-       
-
-       {
-
-          "key":"csp_Bili少儿",
-         "name":"🅱️哔哩少儿",
-         "type": 3,"api": "csp_Bili",
-          "searchable": 0,
-         "quickSearch": 0,
-          "filterable": 1,
-         "ext":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/biliext/少儿教育.json"
-       },
-
-
-        {
-         "key":"csp_Bili小学",
-         "name":"🅱️哔哩小学",
-         "type": 3,
-         "api": "csp_Bili",
-        "searchable": 0,
-       "quickSearch": 0,
-       "filterable": 1,
-       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/biliext/小学课堂.json"},
-
-        {
-          "key":"csp_Bili初中",
-          "name":"🅱️哔哩初中",
-          "type": 3,
-           "api": "csp_Bili",
-            "searchable": 0,
-          "quickSearch": 0,
-           "filterable": 1,
-           "ext":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/biliext/初中课堂.json"
-        },
-
-        {
-            "key":"csp_Bili高中",
-            "name":"🅱️哔哩高中",
-            "type": 3,
-            "api": "csp_Bili","searchable": 0,
-           "quickSearch": 0,
-           "filterable": 1,
-           "ext":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/biliext/高中课堂.json"
-        },      
+        
+        
+        
+        
+        
         
         
         
@@ -384,7 +348,20 @@
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
   
-       
+        {
+            "key": "dnvods影视",
+            "name": "多瑙(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://www.dnvods.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类":"国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#海外剧$31#纪录片$20#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#奇幻片$30#战争片$12#犯罪片$54#动漫电影$55#综艺$3#动漫$4#短剧$60"
+            },
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
+        },
         {
             "key": "C影院",
             "name": "C影院(XBPQ)",
@@ -991,8 +968,7 @@
                 "海外动漫"
             ]
         },
-
-	  
+   
     {
             "key": "非凡1",
             "name": "非凡1",
@@ -1437,6 +1413,3 @@
 	        "logo": "./logo.gif",
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 }
-
-
-
