@@ -207,7 +207,7 @@
             "name": "小呗┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "jar": "./jar/o.jar",
             "ext": {
                 "线路二次截取": "<ul class=\"nav nav-tabs ff-playurl-tab&&</ul>",
                 "线路数组": "<li&&</li>",
@@ -224,7 +224,7 @@
       "name": "🖥️539剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+      "jar": "./jar/o.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -242,7 +242,7 @@
       "name": "🌟次选超清多线",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+      "jar": "./jar/o.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -262,7 +262,7 @@
   "name":"🥑木瓜影视",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+  "jar": "./jar/o.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -283,7 +283,7 @@
                 "分类url": "https://777tv.ai/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "电视剧$2#电影$1#动漫$30#综艺$29"
             },
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
+            "jar": "./jar/o.jar"
         },
       
       
@@ -292,7 +292,7 @@
             "name": "飞行影院(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "jar": "./jar/o.jar",
             "ext": {
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#",
                 "分类url": "https://www.tomato-china.net/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
@@ -303,7 +303,7 @@
             "name": "🍋柠檬影视(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "jar": "./jar/o.jar",
             "ext": {
                 "分类url": "http://www.aweiks.com/show/{cateId}-{area}-------{catePg}---{year}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
@@ -339,7 +339,7 @@
                 "分类url": "http://ty1010.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
                 "分类": "电影$2#电视剧$1#综艺$4#动漫$3#体育赛事$5#网红短剧$41"
             },
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
+            "jar": "./jar/o.jar"
         },
        
      
@@ -372,7 +372,7 @@
                 "分类": "电影$dy#电视剧$dsj#动漫$dm",
                 "类型": "动作$dz#科幻$kh#喜剧$xj#恐怖$kb#爱情$aq#战争$zz#剧情$jq#纪录$jl||陆剧$lj#美剧$mj#韩剧$hj#日剧$rj#泰剧$tj#台剧$twj#其他剧$qtj||空"
             },
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
+            "jar": "./jar/o.jar"
         },
         
        
@@ -395,7 +395,7 @@
                 "分类url": "https://yfeil.com/show/{cateId}-{area}--{class}-{lang}-{letter}---{catePg}---{year}/",
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
             },
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
+            "jar": "./jar/o.jar"
         },
   
         {
@@ -410,7 +410,7 @@
                 "分类url": "https://www.dnvods.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类":"国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#海外剧$31#纪录片$20#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#奇幻片$30#战争片$12#犯罪片$54#动漫电影$55#综艺$3#动漫$4#短剧$60"
             },
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
+            "jar": "./jar/o.jar"
         },
         {
             "key": "C影院",
@@ -427,7 +427,7 @@
                 "分类": "电影&连续剧&综艺&动漫&爽文短剧",
                 "分类值": "dianying&lianxuju&zongyi&dongman&shuangwenduanju&lunlipian"
             },
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
+            "jar": "./jar/o.jar"
         },
     
         {
@@ -435,7 +435,7 @@
             "name": "酷云影院(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
-             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+             "jar": "./jar/o.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -455,7 +455,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+      "jar": "./jar/o.jar",
       "ext": {
         "分类url": "https://zjuba.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#更新$new"
@@ -467,7 +467,7 @@
             "name": "拾光☪大师兄(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "jar": "./jar/o.jar",
             "ext": {
                 "简介": "请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >",
                 "分类url": "https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
@@ -480,7 +480,7 @@
       "name": "💫万能",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",    
+      "jar":"./jar/o.jar",    
       "filterable": 1,
       "changeable": 1,
       "ext": {
@@ -527,7 +527,7 @@
                 "分类": "剧集🌠&电影🌠&综艺🌠&动漫🌠&短剧🌠&",
                 "分类值": "1&2&3&4&5&6"
             },
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
+            "jar": "./jar/o.jar"
         },
     
         {
@@ -568,7 +568,7 @@
                 "分类": "电影🌠&剧集🌠&综艺🌠&动漫🌠",
                 "分类值": "1&2&3&4"
             },
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
+            "jar": "./jar/o.jar"
         },
          {
             "key": "kkk",
@@ -643,7 +643,7 @@
                 "排序": "时间&人气&评分",
                 "排序值": "time&hits&score"
             },
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
+            "jar": "./jar/o.jar"
         },
         
         {
@@ -669,14 +669,14 @@
                 "分类": "电影$20#电视剧$21#综艺$22#动漫$23#",
                 "筛选": "1"
             },
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
+            "jar": "./jar/o.jar"
         },
        
         {
             "key": "速影",
             "name": "✨速影┃集多甄选✨",
             "type": 3,
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "jar": "./jar/o.jar",
             "api": "csp_XBPQ",
             "ext": {
                 "站名": "速影",
@@ -714,7 +714,7 @@
             "key": "🐈‍⬛喜多影视",
             "name": "🐈‍⬛喜多┃影视",
             "type": 3,
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "jar": "./jar/o.jar",
             "api": "csp_XBPQ",
             "searchable": 0,
             "quickSearch": 0,
@@ -730,7 +730,7 @@
       "name": "番茄",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+      "jar": "./jar/o.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -768,7 +768,7 @@
             "name": "🧿纽约┃蓝光?",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "jar": "./jar/o.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -784,7 +784,7 @@
             "name": "🧿云播┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "jar": "./jar/o.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -799,7 +799,7 @@
             "name": "🧿时光┃蓝光?",
             "type": 3,
             "api": "csp_XBPQ",
-             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+             "jar": "./jar/o.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -814,7 +814,7 @@
             "name": "🧿看影┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "jar": "./jar/o.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -828,7 +828,7 @@
             "name": "🧿星空┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "jar": "./jar/o.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -858,7 +858,7 @@
             "name": "🧿红狐狸┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
-             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+             "jar": "./jar/o.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -874,7 +874,7 @@
             "name": "🧿1817┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "jar": "./jar/o.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1456,6 +1456,7 @@
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 
 }
+
 
 
 
