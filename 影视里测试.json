@@ -15,25 +15,27 @@
   "分类":"全网短剧$36#电视剧$2#电影$1#动漫$4#综艺$3"
   }
   },
+
 	  
-	   //删
+	  
+	  
 	  {
             "key": "dnvods影视",
-           "name":"多影视",
+            "name":"多影视",
             "type": 3,
-           "api": "csp_XBPQ",
+            "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
                 "分类url": "https://www.dnvods.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
-               "分类":"国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#海外剧$31#纪录片$20#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#奇幻片$30#战争片$12#犯罪片$54#动漫电影$55#综艺$3#动漫$4#短剧$60"
+                "分类":"国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#海外剧$31#纪录片$20#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#奇幻片$30#战争片$12#犯罪片$54#动漫电影$55#综艺$3#动漫$4#短剧$60"
             },
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
     
-
-    //删
+    
+    
     {
             "key": "drpy_瓜子影视",
             "name": "🍏瓜子┃影视",
@@ -66,8 +68,7 @@
       "ext": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/cs.txt"
 	},
  
-    //删
-	  {
+        {
       "key": "若惜",
       "name": "🏖若惜｜1080P",
       "type": 3,
@@ -231,7 +232,6 @@
                 "地区": "大陆$大陆#香港$香港#台湾$台湾#美国$美国#法国$法国#英国$英国#日本$日本#韩国$韩国#德国$德国#泰国$泰国#印度$印度#意大利$意大利#西班牙$西班牙#加拿大$加拿大"
             }
         },
-	   //删
         {
       "key": "539",
       "name": "🖥️539剧",
@@ -270,8 +270,7 @@
       }
 },
      
-   //删
-	  {
+        {
   "key": "csp_yiq",
   "name":"🥑木瓜影视",
   "type": 3,
@@ -287,7 +286,7 @@
            "分类值": "dianying&lianxuju&zongyi&dongman&yanqingpian"
         }
 },	  
-     //删    {
+        {
             "key": "小鸭影音",
             "name": "小鸭影音(XBPQ)",
             "type": 3,
@@ -301,8 +300,7 @@
         },
       
       
-        //删
-	  {
+        {
             "key": "XBPQ_飞行影视",
             "name": "飞行影院(XBPQ)",
             "type": 3,
@@ -390,7 +388,7 @@
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
         
-        //删
+       
         {
             "key": "csp_XBPQ_云飞",
             "name": "🍚云飞(XBPQ)",
@@ -431,8 +429,7 @@
             },
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
-
-	   //删
+    
         {
             "key": "csp_biubiu_酷云影院",
             "name": "酷云影院(XBPQ)",
@@ -449,7 +446,7 @@
         },
         
     
-        //删 
+        
        {
       "key": "csp_XBPQ_zhuijuba",
       "name": "🎃追剧影视",
@@ -464,8 +461,7 @@
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#更新$new"
       }
     },
-
-	   //删
+   
     {
             "key": "大师兄",
             "name": "拾光☪大师兄(XBPQ)",
@@ -478,8 +474,7 @@
                 "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
             }
         },
-
-	  
+       
         {
       "key": "xbpq_万能",
       "name": "💫万能",
@@ -494,8 +489,7 @@
         "分类": "电影$1#连续剧$2#综艺$3#动漫$4#短剧$6#纪录片$20#短视频$26"
       }
     },
-       
-	  {
+        {
             "key": "MTYY",
             "name": "MTYY💯(XBPQ)",
             "type": 3,
@@ -576,8 +570,7 @@
             },
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
-        
-	  {
+         {
             "key": "kkk",
             "name": "akb💯(XBPQ)",
             "type": 3,
@@ -653,9 +646,7 @@
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
         
-       
-	   //删
-	  {
+        {
             "key": "XBPQ_4k影视",
             "name": "4K影视(XBPQ)",
             "type": 3,
@@ -681,8 +672,7 @@
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
        
-       //删
-	  {
+        {
             "key": "速影",
             "name": "✨速影┃集多甄选✨",
             "type": 3,
@@ -761,7 +751,7 @@
       }
     },
  
- //删
+
        
          {"key": "csp_XBPQ_6V",
   "name": "🌙健教4K",
@@ -773,8 +763,7 @@
   "filterable": 1,
   "ext":"./h/6v.json"} ,
   
-    //删
-	  {
+        {
             "key": "纽约影视",
             "name": "🧿纽约┃蓝光?",
             "type": 3,
@@ -790,8 +779,7 @@
             }
         },
        
-     //删   
-	  {
+        {
             "key": "云影视",
             "name": "🧿云播┃蓝光",
             "type": 3,
@@ -805,7 +793,7 @@
                 "分类": "电影$dy#剧集$dianshi#动漫$donhmsn#综艺$zongyi#"
             }
         },
-       //删  
+        
          {
             "key": "时光影视",
             "name": "🧿时光┃蓝光?",
@@ -835,9 +823,7 @@
                 "分类": "电影$1#剧集$2#动漫$4#综艺$3#"
             }
         },
-       //删 
-	  
-	  {
+         {
             "key": "星空影视",
             "name": "🧿星空┃蓝光",
             "type": 3,
@@ -898,7 +884,7 @@
             }
         },
    
-  //删
+ 
 {
       "key": "牛Y", 
       "name": "牛Y┃影视", 
@@ -1074,7 +1060,16 @@
             ]
         },
    
-      {
+   {
+            "key": "豆瓣采集资源",
+            "name": "豆瓣 | 采集",
+            "type": 1,
+            "api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/",
+            "playerType": 1,
+            "searchable": 1,
+            "changeable": 1
+        },
+   {
             "key": "量子",
             "name": "量子",
             "type": 1,
@@ -1469,14 +1464,4 @@
 	        "logo": "./logo.gif",
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 }
-
-
-
-
-
-
-
-
-
-
 
