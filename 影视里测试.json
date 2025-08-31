@@ -15,16 +15,6 @@
   "分类":"全网短剧$36#电视剧$2#电影$1#动漫$4#综艺$3"
   }
   },
-
-	{"key":"文采",
-		"name":"💮文采┃秒播",
-		"type":3,"api":"csp_JpysGuard",
-		"timeout":10,
-		"playerType":2,
-		"searchable":1,
-		"quickSearch":1,
-		"changeable":1
-	},  
 	  
 	   //删
 	//  {
@@ -1479,6 +1469,7 @@
 	        "logo": "./logo.gif",
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 }
+
 
 
 
