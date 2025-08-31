@@ -3,22 +3,9 @@
 "warningText": "公子导航页：http://lzoq.serv00.net",
 "sites":
   [ 
-  { "key": "刘公子", 
-  "name": "👇点首页↙️切换影视资源接口，易相信视频中的广告 切记！！！ 切记！！！",
-  "searchable": 0,
- "quickSearch": 0,
-  "filterable": 1,
-  "type":3,
-  "api":"csp_XBPQ", 
-  "ext": { "简介" :"刘公子为您剧情介绍:+detail-content\" style=*>&&","\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e",
-  "分类url":"https://cnsende.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-  "分类":"全网短剧$36#电视剧$2#电影$1#动漫$4#综艺$3"
-  }
-  },
-
-        {
+          {
 			"key": "csp_nongmin",
-			"name": "👨农民┃1080P",
+			"name": "👇点首页↙️切换影视资源接口，易相信视频中的广告 切记！！！ 切记！！！",
 			"type": 3,
 			"api": "csp_Wwys",
 			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749178719932/0606.jpg",
@@ -1129,5 +1116,6 @@
 	        "logo": "./logo.gif",
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 }
+
 
 
