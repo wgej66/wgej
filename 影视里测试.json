@@ -763,7 +763,7 @@
       }
     },
  
-
+ //删
        
          {"key": "csp_XBPQ_6V",
   "name": "🌙健教4K",
@@ -775,7 +775,8 @@
   "filterable": 1,
   "ext":"./h/6v.json"} ,
   
-        {
+    //删
+	  {
             "key": "纽约影视",
             "name": "🧿纽约┃蓝光?",
             "type": 3,
@@ -791,7 +792,8 @@
             }
         },
        
-        {
+     //删   
+	  {
             "key": "云影视",
             "name": "🧿云播┃蓝光",
             "type": 3,
@@ -805,7 +807,7 @@
                 "分类": "电影$dy#剧集$dianshi#动漫$donhmsn#综艺$zongyi#"
             }
         },
-        
+       //删  
          {
             "key": "时光影视",
             "name": "🧿时光┃蓝光?",
@@ -835,7 +837,9 @@
                 "分类": "电影$1#剧集$2#动漫$4#综艺$3#"
             }
         },
-         {
+       //删 
+	  
+	  {
             "key": "星空影视",
             "name": "🧿星空┃蓝光",
             "type": 3,
@@ -896,7 +900,7 @@
             }
         },
    
- 
+  //删
 {
       "key": "牛Y", 
       "name": "牛Y┃影视", 
@@ -1072,16 +1076,7 @@
             ]
         },
    
-   {
-            "key": "豆瓣采集资源",
-            "name": "豆瓣 | 采集",
-            "type": 1,
-            "api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/",
-            "playerType": 1,
-            "searchable": 1,
-            "changeable": 1
-        },
-   {
+      {
             "key": "量子",
             "name": "量子",
             "type": 1,
@@ -1476,6 +1471,7 @@
 	        "logo": "./logo.gif",
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 }
+
 
 
 
