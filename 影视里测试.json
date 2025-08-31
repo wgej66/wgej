@@ -19,20 +19,20 @@
 	  
 	  
 	   //删
-	  {
-            "key": "dnvods影视",
-            "name":"多影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://www.dnvods.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类":"国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#海外剧$31#纪录片$20#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#奇幻片$30#战争片$12#犯罪片$54#动漫电影$55#综艺$3#动漫$4#短剧$60"
-            },
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
-        },
+	//  {
+    //        "key": "dnvods影视",
+    //        "name":"多影视",
+    //        "type": 3,
+    //        "api": "csp_XBPQ",
+    //        "searchable": 1,
+    //        "quickSearch": 1,
+     //       "filterable": 1,
+    //        "ext": {
+    //            "分类url": "https://www.dnvods.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
+    //            "分类":"国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#海外剧$31#纪录片$20#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#奇幻片$30#战争片$12#犯罪片$54#动漫电影$55#综艺$3#动漫$4#短剧$60"
+    //        },
+    //        "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
+    //    },
     
     
     //删
@@ -1471,6 +1471,7 @@
 	        "logo": "./logo.gif",
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 }
+
 
 
 
