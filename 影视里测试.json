@@ -16,7 +16,15 @@
   }
   },
 
-	  
+	{"key":"文采",
+		"name":"💮文采┃秒播",
+		"type":3,"api":"csp_JpysGuard",
+		"timeout":10,
+		"playerType":2,
+		"searchable":1,
+		"quickSearch":1,
+		"changeable":1
+	},  
 	  
 	   //删
 	//  {
@@ -34,9 +42,7 @@
     //        "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
     //    },
     
-    {"key":"暴風","name":"暴風┃采集","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
-{"key":"索尼","name":"索尼┃采集","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},
-{"key":"快帆","name":"快帆┃采集","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"changeable":1},
+
     //删
     {
             "key": "drpy_瓜子影视",
@@ -1473,6 +1479,7 @@
 	        "logo": "./logo.gif",
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 }
+
 
 
 
