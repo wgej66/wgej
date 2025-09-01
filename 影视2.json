@@ -15,17 +15,7 @@
             "api": "https://x.yoxia.me/ds/libs/drpy2.min.js",
             "ext": "https://x.yoxia.me/ds/guazi.js"
         },
-{
-      "name": "索尼",
-      "hosts": [
-        "suonizy"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts",
-        "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts"
-      ]
-    },  
+  
 	   {
       "key": "外语",
       "name": "外语┃教学",
@@ -140,73 +130,7 @@
     "ext":"http://gzy.hk3.345888.xyz.cdn.cloudflare.net/json/哔哩戏曲.json"
   },   
 
- {
-       "key":"csp_Bili",
-       "name":"🅱️哔哩综合",
-       "type": 3,
-       "api": "csp_Bili",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/biliext/Bili.json"
- },        
-        
-   {
-          "key":"csp_Bili幼儿",
-         "name":"🅱️哔哩幼儿",
-          "type":3,
-         "api":"csp_Bili",
-         "searchable":0,
-        "quickSearch":0,
-         "filterable":1,
-        "ext":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/biliext/幼儿乐园.json"},
-       
-
-       {
-
-          "key":"csp_Bili少儿",
-         "name":"🅱️哔哩少儿",
-         "type": 3,"api": "csp_Bili",
-          "searchable": 0,
-         "quickSearch": 0,
-          "filterable": 1,
-         "ext":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/biliext/少儿教育.json"
-       },
-
-
-        {
-         "key":"csp_Bili小学",
-         "name":"🅱️哔哩小学",
-         "type": 3,
-         "api": "csp_Bili",
-        "searchable": 0,
-       "quickSearch": 0,
-       "filterable": 1,
-       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/biliext/小学课堂.json"},
-
-        {
-          "key":"csp_Bili初中",
-          "name":"🅱️哔哩初中",
-          "type": 3,
-           "api": "csp_Bili",
-            "searchable": 0,
-          "quickSearch": 0,
-           "filterable": 1,
-           "ext":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/biliext/初中课堂.json"
-        },
-
-        {
-            "key":"csp_Bili高中",
-            "name":"🅱️哔哩高中",
-            "type": 3,
-            "api": "csp_Bili","searchable": 0,
-           "quickSearch": 0,
-           "filterable": 1,
-           "ext":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/biliext/高中课堂.json"
-        },      
-        
-        
-        
+ 
         
         
         
@@ -1514,6 +1438,7 @@
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 
 }
+
 
 
 
