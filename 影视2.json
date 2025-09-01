@@ -16,24 +16,19 @@
             "ext": "https://x.yoxia.me/ds/guazi.js"
         },
 {
-      "key": "瓜子影视1",
-      "name": "瓜子┃影视1",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-
-	  {
-      "key": "瓜子┃影视",
-      "name": "瓜子┃影视",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+"key":"瓜子",
+"name":"🍒瓜子影视",
+"jar":"./jar/ok.jar",
+"type":3,
+"api":"csp_GuaziGuard",
+"searchable":1,
+"changeable":1,
+"filterable":1,
+"ext":{
+"danmu":true
+},
+"timeout":10
+},
 	  
 	   {
       "key": "外语",
@@ -1523,6 +1518,7 @@
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 
 }
+
 
 
 
