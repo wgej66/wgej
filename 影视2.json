@@ -15,7 +15,26 @@
             "api": "https://x.yoxia.me/ds/libs/drpy2.min.js",
             "ext": "https://x.yoxia.me/ds/guazi.js"
         },
+{
+      "key": "瓜子影视1",
+      "name": "瓜子┃影视1",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 
+	  {
+      "key": "瓜子┃影视",
+      "name": "瓜子┃影视",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	  
 	   {
       "key": "外语",
       "name": "外语┃教学",
@@ -1504,6 +1523,7 @@
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 
 }
+
 
 
 
