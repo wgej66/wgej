@@ -18,7 +18,7 @@
 {
 "key":"瓜子",
 "name":"🍒瓜子影视",
-"jar":"./jar/ok.jar",
+"jar":"./ok.jar",
 "type":3,
 "api":"csp_GuaziGuard",
 "searchable":1,
@@ -1518,6 +1518,7 @@
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 
 }
+
 
 
 
