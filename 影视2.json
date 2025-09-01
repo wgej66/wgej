@@ -16,20 +16,16 @@
             "ext": "https://x.yoxia.me/ds/guazi.js"
         },
 {
-"key":"瓜子",
-"name":"🍒瓜子影视",
-"jar":"./ok.jar",
-"type":3,
-"api":"csp_GuaziGuard",
-"searchable":1,
-"changeable":1,
-"filterable":1,
-"ext":{
-"danmu":true
-},
-"timeout":10
-},
-	  
+      "name": "索尼",
+      "hosts": [
+        "suonizy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts",
+        "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts"
+      ]
+    },  
 	   {
       "key": "外语",
       "name": "外语┃教学",
@@ -1518,6 +1514,7 @@
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 
 }
+
 
 
 
